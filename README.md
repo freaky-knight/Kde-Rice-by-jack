@@ -8,6 +8,12 @@ Custom KDE Plasma setup on Arch Linux.
 
 ---
 
+## 🎯 Who Is This For?
+
+This guide is made for beginners who want to try KDE ricing without complex dotfiles or advanced configuration. :)
+
+---
+
 ## ⚠️ Before You Install
 
 Make sure you have:
