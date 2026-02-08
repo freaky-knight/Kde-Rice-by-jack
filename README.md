@@ -1,3 +1,7 @@
+![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-blue?logo=arch-linux)
+![KDE Plasma](https://img.shields.io/badge/DE-KDE_Plasma-blue?logo=kde)
+![Made by Jack](https://img.shields.io/badge/Made%20By-Jack-black)
+
 # ✨ KDE Rice by Jack
 
 Custom KDE Plasma setup on Arch Linux.
