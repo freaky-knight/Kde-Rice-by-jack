@@ -13,6 +13,15 @@ Custom KDE Plasma setup on Arch Linux.
 
 ---
 
+## 💻 Hardware
+
+- CPU: Intel i5-2450M
+- RAM: 8GB
+- Storage: 150GB HDD
+- GPU: Intel Integrated Graphics
+
+---
+
 ## 📸 Preview
 
 ### Desktop
@@ -32,4 +41,4 @@ Custom KDE Plasma setup on Arch Linux.
 
 ---
 
-Made with ❤️ by Jack
+Made byJack Rudholph ❤️  
